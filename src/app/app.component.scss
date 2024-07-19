@@ -1,0 +1,10 @@
+.container {
+    display: flex;
+
+    ul {
+        flex-grow: 1;
+    }
+    .logs {
+        flex-grow: 2;
+    }
+}
